@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2023-05-02T22:21:04.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="N7X71QTwK4XJafEZNkJB" version="21.2.4" type="google">
+  <diagram name="Página-1" id="K2J7kBWwChhrrd4z93a-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-3" value="Pizerria" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="281" y="105" width="299" height="575" as="geometry" />
+        </mxCell>
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-4" value="&lt;b&gt;Login de vista principal&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="25o2kRVLPUKcZ4APRL_i-3">
+          <mxGeometry x="40" y="50" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-5" value="&lt;b&gt;Cartel con aviso de tardanza&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="25o2kRVLPUKcZ4APRL_i-3">
+          <mxGeometry x="40" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-8" value="&lt;b&gt;Cartel con los productos elegidos y un precio&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="25o2kRVLPUKcZ4APRL_i-3">
+          <mxGeometry x="40" y="255" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-9" value="&lt;b&gt;Muestra el plato que esta como especial o con descuento&amp;nbsp; durante el dia&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot; id=&quot;docs-internal-guid-791d1823-7fff-068d-61e6-fa51b0537eb0&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="25o2kRVLPUKcZ4APRL_i-3">
+          <mxGeometry x="40" y="355" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-12" value="&lt;b&gt;Diseño visual de la pagina&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="25o2kRVLPUKcZ4APRL_i-3">
+          <mxGeometry x="40" y="450" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-17" value="Hugo&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25o2kRVLPUKcZ4APRL_i-20" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
